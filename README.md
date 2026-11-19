@@ -3,6 +3,7 @@ Project overview
 This project analyses Amber Enterprises India Ltd. using historical financial statements, ratio analysis, a five-year forecast and valuation methods. The model covers actual performance from FY2020 to FY2025 and forecasts FY2026 to FY2030.
 
 The aim was to understand the company’s growth, profitability, working-capital position, debt levels and the value suggested by different valuation approaches.
+
 Key findings:
 - Strong revenue growth: Revenue increased from ₹3,963 crore in FY20 to ₹9,973 crore in FY25, which is around 2.5 times growth. FY25 revenue increased by about 48% over FY24.
 - Profit improved, but margins remain low: FY25 EBITDA was ₹763 crore and net profit was ₹251 crore. Net profit margin was about 2.5%, leaving a limited cushion if costs or interest expenses rise.
@@ -32,6 +33,7 @@ The report also identified issues that need to be fixed before relying on the va
 3. The DCF terminal-year assumptions need review because capex remains above depreciation and forecast FCFF is negative throughout.
 4. The dividend discount model is not suitable here because the company does not pay dividends; FCFE or residual income could be considered instead.
 5. The valuation should be checked against a wider peer group.
+
 What I worked on
 - Historical financial statement analysis (FY20–FY25)
 - Profitability, liquidity, leverage and activity ratio analysis
@@ -41,5 +43,6 @@ What I worked on
 - WACC and FCFF-based DCF valuation
 - Relative valuation using P/E, P/B and EV/EBITDA against Whirlpool India
 - Review of model assumptions and identification of unit-related valuation issues
+
 Tools and methods:
 Microsoft Excel | Financial statement analysis | Ratio analysis | DuPont analysis | Forecasting | WACC | FCFF DCF | Relative valuation.
