@@ -1,5 +1,6 @@
 Amber Enterprises India Ltd. – Financial Modelling & Valuation
-Project overview
+
+Project overview:
 This project analyses Amber Enterprises India Ltd. using historical financial statements, ratio analysis, a five-year forecast and valuation methods. The model covers actual performance from FY2020 to FY2025 and forecasts FY2026 to FY2030.
 
 The aim was to understand the company’s growth, profitability, working-capital position, debt levels and the value suggested by different valuation approaches.
