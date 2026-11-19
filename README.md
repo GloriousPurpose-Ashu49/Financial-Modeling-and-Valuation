@@ -1,4 +1,4 @@
-Amber Enterprises India Ltd. – Financial Modelling & Valuation
+**Amber Enterprises India Ltd. – Financial Modelling & Valuation**
 
 Project Overview:
 This project focuses on analysing the financial performance of **Amber Enterprises India Ltd.** using historical financial statements (FY2020–FY2025) and forecasting its financial performance for FY2026–FY2030.
@@ -41,3 +41,5 @@ Tools & Skills Used:
 - Financial Forecasting
 - DCF and Relative Valuation
 - WACC Calculation
+
+Conclusion: The analysis shows that Amber Enterprises has achieved strong revenue growth and improved its working capital efficiency. However, low profit margins, increasing debt and high capital expenditure remain important concerns. The valuation analysis also suggests that the market price is significantly higher than the peer-based estimates.
